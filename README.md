@@ -69,6 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### notes
+## Notes
 
-This project is created by extending a simple todo project from a [tutorial](https://www.youtube.com/watch?v=kK_Wqx3RnHk&list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h&index=6), in the future I want to add more features to it, for example, group todos into projects, enalble deadlines and add sub-todos and so on.
+This project is created by extending a simple todo project from this [tutorial](https://www.youtube.com/watch?v=kK_Wqx3RnHk&list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h&index=6), in the future I want to add more features to it, for example, grouping todos into projects, enable deadlines and adding sub-todos and so on.
