@@ -9,6 +9,21 @@ p {
   font-size: 1.1rem;
 }
 
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 20vh;
+}
+
+.todo {
+  text-align: center;
+}
+
+span {
+  margin-right: 1rem;
+}
+
 nav {
   display: flex;
   padding: 2rem 0;
